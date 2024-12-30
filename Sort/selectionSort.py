@@ -14,9 +14,3 @@ def selectionSort(aList : Sequence) -> Sequence:
 	result = aList
 
 	return result
-
-
-t = [43,4,5,3,2,4,32,23,3]
-r = selectionSort(t)
-
-print(r)
